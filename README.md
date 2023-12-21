@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://www.lakshyaroonwal.me/)
 * ✉️  You can contact me at [lakshyaroonwal@gmail.com](mailto:lakshyaroonwal@gmail.com)
-* 🚀  I'm currently working on [Doc Sculptor](http://github.com/docsculptor)
+* 🚀  I'm currently working on [Doc Sculptor](http://github.com/lakshya-roonwal/DocSculptor)
 * 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on Interesting Projects
 
