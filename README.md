@@ -27,4 +27,3 @@ Full Stack Developer
 
 <a href="https://github.com/lakshya-roonwal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-roonwal&langs_count=10&title_color=6366f1&text_color=84cc16&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lakshya-roonwal&theme=radical&hide_border=true&border_radius=8.8)](https://git.io/streak-stats)
